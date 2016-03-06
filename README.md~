@@ -3,4 +3,3 @@ The task is to implement the java a bookstore. The books in the deal includes ti
 
 The user can able to draw up a list of books, either the entire layer or can be able to search by title and author.The user can also be able to add and remove books from their shopping cart and buy everything in the cart (where the total price is calculated).
 
-
